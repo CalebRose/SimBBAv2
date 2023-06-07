@@ -1,0 +1,165 @@
+HomeTeam,AwayTeam,HomeTeamScore,AwayTeamScore,Total Possessions
+UTAH,UVU,78,42,145
+""
+Team,Result,PlayType,TeamOneScore,TeamTwoScore,Possession,Total Possessions
+UTAH,Damon wins the tipoff for UTAH!,Tipoff,0,0,0,145
+UTAH,William Butman Inside shot...Score!,Score,2,0,1,145
+UVU,Frederick Brackett 3-point attempt...Score!       Assisted by: James Edwards,Score,2,3,3,145
+UTAH,William Butman Inside shot...Missed!       Rebounded by UTAH Howard Wen.,Score,2,3,4,145
+UTAH,Howard Wen 2-point jumper...Missed!       Rebounded by UTAH William Butman.,Missed,2,3,5,145
+UTAH,Shawn Fuller Inside shot...BLOCKED by UVU Kevin Nelson.       Rebounded by UVU Jeffrey Gilham.,Turnover,2,3,6,145
+UVU,Kevin Nelson 2-point jumper...BLOCKED by William Butman.       Rebounded by UTAH William Butman.,Turnover,2,3,7,145
+UTAH,Timothy Plungis Inside shot...Score!,Score,4,3,8,145
+UVU,Kevin Nelson Inside shot... Missed but with a foul on the play.,Fouled,4,3,9,145
+UVU,Free throw coming up... good!,FreeThrow,4,4,9,145
+UVU,Free throw coming up... good!,FreeThrow,4,5,9,145
+UTAH,Kevin Hurst 2-point jumper...Score!,Score,6,5,10,145
+UVU,Steven Boehmer 2-point jumper...BLOCKED by William Butman.       Rebounded by UTAH Robert Oneil.,Turnover,6,5,11,145
+UTAH,Howard Wen 2-point jumper...Missed!       Rebounded by UVU Rick Monroy.,Missed,6,5,12,145
+UTAH,Robert Oneil steals the ball for UTAH!,Turnover,6,5,13,145
+UTAH,Howard Wen 2-point jumper...Score!       Assisted by: Damon Collins,Score,8,5,14,145
+UVU,UVU: Shot clock violation on UVU Frederick Brackett.,Turnover,8,5,15,145
+UTAH,Kevin Hurst 3-point attempt...Missed!       Rebounded by UTAH Timothy Plungis.,Missed,8,5,16,145
+UTAH,William Butman Inside shot...BLOCKED by UVU Richard Comstock.       Rebounded by UVU Steven Boehmer.,Turnover,8,5,17,145
+UVU,UVU: Offensive foul on UVU Jeffrey Gilham.,Turnover,8,5,18,145
+UTAH,Damon Collins 3-point attempt...Score!       Assisted by: Howard Wen,Score,11,5,19,145
+UVU,Kevin Nelson 2-point jumper...Missed!       Rebounded by UVU Jeffrey Gilham.,Score,11,5,20,145
+UVU,Kevin Nelson 2-point jumper...Missed!       Rebounded by UTAH William Butman.,Score,11,5,21,145
+UTAH,Howard Wen 2-point jumper...BLOCKED by UVU Kevin Nelson.       Rebounded by UVU Kevin Nelson.,Turnover,11,5,22,145
+UVU,Frederick Brackett Inside shot...Missed!       Rebounded by UTAH William Butman.,Score,11,5,23,145
+UTAH,UTAH Robert Oneil lost the ball out of bounds.,Out of Bounds,11,5,24,145
+UVU,Rick Monroy 2-point jumper...Missed!       Rebounded by UTAH William Butman.,Score,11,5,25,145
+UTAH,Kevin Hurst 3-point attempt...Score!       Assisted by: Robert Oneil,Score,14,5,26,145
+UVU,Kevin Nelson Inside shot...Score!,Score,14,7,27,145
+UTAH,Damon Collins Inside shot...Missed!       Rebounded by UVU Kevin Nelson.,Score,14,7,28,145
+UVU,James Edwards 3-point attempt...Missed!Rebounded by UTAH Howard Wen.,Score,14,7,29,145
+UTAH,Timothy Plungis Inside shot...BLOCKED by UVU Rick Monroy.       Rebounded by UTAH Timothy Plungis.,Turnover,14,7,30,145
+UTAH,UTAH Damon Collins lost the ball out of bounds.,Out of Bounds,14,7,31,145
+UVU,Kevin Nelson 2-point jumper...Missed!       Rebounded by UTAH William Butman.,Score,14,7,32,145
+UTAH,Damon Collins 3-point attempt...Score!       Assisted by: William Butman,Score,17,7,33,145
+UVU,Kevin Nelson 2-point jumper...Missed!       Rebounded by UTAH Damon Collins.,Score,17,7,34,145
+UTAH,Timothy Plungis 2-point jumper...Missed!       Rebounded by UVU Rick Monroy.,Missed,17,7,35,145
+UVU,UVU Jeffrey Gilham lost the ball out of bounds.,Turnover,17,7,36,145
+UTAH,Timothy Plungis 2-point jumper... Missed with a foul on the play.,FreeThrow,18,7,37,145
+UTAH,Timothy Plungis 2-point jumper... Missed with a foul on the play.,FreeThrow,19,7,37,145
+UVU,Kevin Nelson Inside shot...Missed!       Rebounded by UTAH Robert Oneil.,Score,19,7,38,145
+UTAH,Timothy Plungis Inside shot...Missed!       Rebounded by UVU Kevin Nelson.,Score,19,7,39,145
+UVU,Steven Boehmer Inside shot...Score! Fouled and we have a free throw folks!,Score,19,9,40,145
+UVU,Free throw coming up... good!,FreeThrow,19,10,40,145
+UVU,Kevin Nelson steals the ball for UVU!,Turnover,19,10,41,145
+UVU,Kevin Nelson Inside shot... Missed but with a foul on the play.,Fouled,19,10,42,145
+UVU,Free throw coming up... good!,FreeThrow,19,11,42,145
+UVU,Free throw coming up... good!,FreeThrow,19,12,42,145
+UTAH,UTAH: Offensive foul on UTAH Howard Wen.,Foul,19,12,43,145
+UTAH,Shawn Fuller steals the ball for UTAH!,Turnover,19,12,44,145
+UTAH,Howard Wen 3-point attempt...Score!       Assisted by: Shawn Fuller,Score,22,12,45,145
+UTAH,William Butman steals the ball for UTAH!,Turnover,22,12,46,145
+UTAH,Timothy Plungis Inside shot...Score!       Assisted by: William Butman,Score,24,12,47,145
+UVU,Kevin Nelson 2-point jumper...Missed!       Rebounded by UTAH Robert Oneil.,Score,24,12,48,145
+UVU,Kevin Nelson steals the ball for UVU!,Turnover,24,12,49,145
+UVU,Richard Comstock 2-point jumper...Score!,Score,24,14,50,145
+UTAH,Howard Wen 3-point attempt...Score!       Assisted by: Robert Oneil,Score,27,14,51,145
+UVU,Kevin Nelson 2-point jumper...Missed!       Rebounded by UTAH William Butman.,Score,27,14,52,145
+UTAH,Robert Oneil 2-point jumper...Missed!       Rebounded by UVU Rick Monroy.,Missed,27,14,53,145
+UVU,Kevin Nelson 2-point jumper...Missed!       Rebounded by UTAH Timothy Plungis.,Score,27,14,54,145
+UTAH,Timothy Plungis 3-point attempt...Missed!       Rebounded by UVU Javier Gomez.,Miss,27,14,55,145
+UVU,UVU Kevin Nelson lost the ball out of bounds.,Turnover,27,14,56,145
+UTAH,UTAH Howard Wen lost the ball out of bounds.,Out of Bounds,27,14,57,145
+UVU,Kevin Nelson Inside shot...Missed!       Rebounded by UTAH Howard Wen.,Score,27,14,58,145
+UTAH,Timothy Plungis Inside shot...BLOCKED by UVU James Edwards.       Rebounded by UVU James Edwards.,Turnover,27,14,59,145
+UVU,Frederick Brackett 2-point jumper...Score!,Score,27,16,60,145
+UTAH,Timothy Plungis Inside shot...Missed!       Rebounded by UVU Rick Monroy.,Score,27,16,61,145
+UVU,Frederick Brackett 3-point attempt...Missed!Rebounded by UTAH Timothy Plungis.,Score,27,16,62,145
+UTAH,UTAH: Offensive foul on UTAH Kevin Hurst.,Foul,27,16,63,145
+UVU,Matthew Chase 3-point attempt...Score!,Score,27,19,64,145
+UTAH,Robert Oneil 2-point jumper...Score!       Assisted by: William Butman,Score,29,19,65,145
+UVU,Frederick Brackett 3-point attempt...Missed!       Rebounded by UVU Steven Boehmer.,Score,29,19,66,145
+UTAH,Timothy Plungis steals the ball for UTAH!,Turnover,29,19,67,145
+UTAH,Damon Collins 3-point attempt...Missed!       Rebounded by UTAH Timothy Plungis.,Missed,29,19,68,145
+UTAH,Howard Wen 3-point attempt...Score!       Assisted by: William Butman,Score,32,19,69,145
+UVU,James Edwards 3-point attempt...Missed!Rebounded by UTAH Timothy Plungis.,Score,32,19,70,145
+UTAH,Howard Wen 2-point jumper...Score!       Assisted by: Robert Oneil,Score,34,19,71,145
+UVU,Jeffrey Gilham 2-point jumper...Score!       Assisted by: James Edwards,Score,34,21,72,145
+,,HALFTIME,34,21,72,145
+UTAH,Timothy Plungis Inside shot...Missed!       Rebounded by UTAH Howard Wen.,Score,34,21,73,145
+UTAH,William Butman Inside shot...Missed!       Rebounded by UVU Kevin Nelson.,Score,34,21,74,145
+UVU,James Edwards 3-point attempt...Missed!Rebounded by UTAH Robert Oneil.,Score,34,21,75,145
+UTAH,Howard Wen 3-point attempt...Score!       Assisted by: Shawn Fuller,Score,37,21,76,145
+UVU,Kevin Nelson Inside shot...Missed!       Rebounded by UTAH William Butman.,Score,37,21,77,145
+UTAH,UTAH: Offensive foul on UTAH Robert Oneil.,Foul,37,21,78,145
+UVU,UVU: Offensive foul on UVU Steven Boehmer.,Turnover,37,21,79,145
+UTAH,Kevin Hurst 2-point jumper...Missed!       Rebounded by UVU Frederick Brackett.,Missed,37,21,80,145
+UTAH,William Butman steals the ball for UTAH!,Turnover,37,21,81,145
+UVU,Richard Comstock steals the ball for UVU!,Turnover,37,21,82,145
+UVU,Richard Comstock 2-point jumper...Score!,Score,37,23,84,145
+UTAH,Shawn Fuller Inside shot...Score!       Assisted by: Timothy Plungis,Score,39,23,85,145
+UVU,James Edwards 2-point jumper...Score! Foul on the play and we go to a free throw!,Score,39,25,86,145
+UTAH,Kevin Hurst 3-point attempt...Score!       Assisted by: Timothy Plungis,Score,42,26,87,145
+UVU,Steven Boehmer 2-point jumper...Score!,Score,42,28,88,145
+UTAH,Kevin Hurst 3-point attempt...Missed!       Rebounded by UVU Richard Comstock.,Miss,42,28,89,145
+UVU,Rick Monroy 2-point jumper...BLOCKED by Robert Oneil.       Rebounded by UTAH Damon Collins.,Turnover,42,28,90,145
+UTAH,Timothy Plungis Inside shot... Missed with a foul on the play.,Fouled,42,28,91,145
+UTAH,Free throw coming up... good!,FreeThrow,43,28,91,145
+UTAH,Free throw coming up... good!,FreeThrow,44,28,91,145
+UVU,Jeffrey Gilham 2-point jumper...BLOCKED by Howard Wen.       Rebounded by UVU Javier Gomez.,Turnover,44,28,92,145
+UVU,Kevin Nelson 2-point jumper...Score!       Assisted by: Steven Boehmer,Score,44,30,93,145
+UTAH,Timothy Plungis Inside shot...Score!,Score,46,30,94,145
+UVU,Richard Comstock Inside shot...Score! Fouled and we have a free throw folks!,Score,46,32,95,145
+UVU,Free throw coming up... rattled out.       Rebounded by UTAH Timothy Plungis.,FreeThrow,46,32,95,145
+UTAH,Timothy Plungis 3-point attempt...Score!       Assisted by: Robert Oneil,Score,49,32,96,145
+UTAH,William Butman steals the ball for UTAH!,Turnover,49,32,97,145
+UTAH,Timothy Plungis Inside shot...BLOCKED by UVU Kevin Nelson.       Rebounded by UTAH Robert Oneil.,Turnover,49,32,99,145
+UTAH,Timothy Plungis Inside shot...Missed!       Rebounded by UVU Richard Comstock.,Score,49,32,100,145
+UVU,James Edwards 2-point jumper...Missed!       Rebounded by UTAH Timothy Plungis.,Score,49,32,101,145
+UTAH,Kevin Hurst 2-point jumper...Missed!       Rebounded by UTAH Howard Wen.,Missed,49,32,102,145
+UTAH,Kevin Hurst 3-point attempt...Score!,Score,52,32,103,145
+UVU,Kevin Nelson Inside shot... Missed but with a foul on the play.,Fouled,52,32,104,145
+UVU,Free throw coming up... good!,FreeThrow,52,33,104,145
+UVU,Free throw coming up... good!,FreeThrow,52,34,104,145
+UTAH,Howard Wen 2-point jumper... Missed with a foul on the play.,FreeThrow,53,34,105,145
+UTAH,Howard Wen 2-point jumper... Missed with a foul on the play.,FreeThrow,54,34,105,145
+UVU,Steven Boehmer 3-point attempt...Score!       Assisted by: Richard Comstock,Score,54,37,106,145
+UTAH,Kevin Hurst 3-point attempt...Score!       Assisted by: Timothy Plungis,Score,57,37,107,145
+UVU,Frederick Brackett 2-point jumper...Missed!       Rebounded by UTAH Howard Wen.,Score,57,37,108,145
+UTAH,Timothy Plungis Inside shot...BLOCKED by UVU Kevin Nelson.       Rebounded by UVU Kevin Nelson.,Turnover,57,37,109,145
+UVU,Matthew Chase 3-point attempt...Missed!Rebounded by UTAH Robert Oneil.,Score,57,37,110,145
+UTAH,Robert Oneil 2-point jumper...BLOCKED by UVU Javier Gomez.       Rebounded by UVU Richard Comstock.,Turnover,57,37,111,145
+UVU,Frederick Brackett Inside shot...BLOCKED by William Butman.       Rebounded by UTAH Damon Collins.,Turnover,57,37,112,145
+UTAH,Damon Collins Inside shot... Missed with a foul on the play.,Fouled,57,37,113,145
+UTAH,Free throw coming up... good!,FreeThrow,58,37,113,145
+UTAH,Free throw coming up... good!,FreeThrow,59,37,113,145
+UVU,James Edwards 2-point jumper...Missed!       Rebounded by UTAH Shawn Fuller.,Score,59,37,114,145
+UTAH,UTAH: Offensive foul on UTAH Shawn Fuller.,Foul,59,37,115,145
+UVU,Richard Comstock 2-point jumper...Missed!       Rebounded by UTAH Timothy Plungis.,Score,59,37,116,145
+UTAH,Damon Collins 3-point attempt...Missed!       Rebounded by UTAH Damon Collins.,Missed,59,37,117,145
+UTAH,Kevin Hurst 3-point attempt...Score!       Assisted by: William Butman,Score,62,37,118,145
+UVU,Kevin Nelson Inside shot...Missed!       Rebounded by UTAH William Butman.,Score,62,37,119,145
+UTAH,Howard Wen 3-point attempt...Score!       Assisted by: Timothy Plungis,Score,65,37,120,145
+UTAH,William Butman steals the ball for UTAH!,Turnover,65,37,121,145
+UTAH,Timothy Plungis Inside shot...Score!       Assisted by: William Butman,Score,67,37,122,145
+UVU,Kevin Nelson Inside shot...Missed!       Rebounded by UVU Richard Comstock.,Score,67,37,123,145
+UVU,UVU: Shot clock violation on UVU Frederick Brackett.,Turnover,67,37,124,145
+UTAH,Timothy Plungis Inside shot... Missed with a foul on the play.,Fouled,67,37,125,145
+UTAH,Free throw coming up... good!,FreeThrow,68,37,125,145
+UVU,Steven Boehmer Inside shot...Missed!       Rebounded by UTAH Timothy Plungis.,Score,68,37,126,145
+UTAH,Damon Collins Inside shot...Score!       Assisted by: Robert Oneil,Score,70,37,127,145
+UVU,Kevin Nelson 2-point jumper...Missed!       Rebounded by UTAH Damon Collins.,Score,70,37,128,145
+UTAH,Kevin Hurst 3-point attempt...Missed!       Rebounded by UTAH Howard Wen.,Missed,70,37,129,145
+UVU,Jeffrey Gilham steals the ball for UVU!,Turnover,70,37,130,145
+UVU,Kevin Nelson 2-point jumper...Score!,Score,70,39,131,145
+UTAH,Timothy Plungis Inside shot...BLOCKED by UVU Frederick Brackett.       Rebounded by UTAH Howard Wen.,Turnover,70,39,132,145
+UTAH,Robert Oneil 2-point jumper...Missed!       Rebounded by UVU Rick Monroy.,Missed,70,39,133,145
+UVU,UVU: Offensive foul on UVU Kevin Nelson.,Turnover,70,39,134,145
+UTAH,Damon Collins Inside shot...Missed!       Rebounded by UTAH Howard Wen.,Score,70,39,135,145
+UTAH,Howard Wen 2-point jumper...Missed!       Rebounded by UTAH Howard Wen.,Missed,70,39,136,145
+UTAH,Kevin Hurst 3-point attempt...Missed!       Rebounded by UTAH Timothy Plungis.,Missed,70,39,137,145
+UTAH,Robert Oneil 2-point jumper...Score!,Score,72,39,138,145
+UVU,UVU Richard Comstock lost the ball out of bounds.,Turnover,72,39,139,145
+UTAH,Timothy Plungis Inside shot...Missed!       Rebounded by UTAH Howard Wen.,Score,72,39,140,145
+UTAH,Kevin Hurst 3-point attempt...Score!       Assisted by: Damon Collins,Score,75,39,141,145
+UVU,Kevin Nelson Inside shot...Score!,Score,75,41,142,145
+UTAH,Kevin Hurst 3-point attempt...Score!       Assisted by: Timothy Plungis,Score,78,41,143,145
+UVU,Free throw coming up... good!,FreeThrow,78,42,144,145
+UTAH,Damon Collins Inside shot...Missed!       Rebounded by UTAH Timothy Plungis.,Score,78,42,145,145
+UTAH,Timothy Plungis 2-point jumper...Missed!       Rebounded by UTAH Howard Wen.,Missed,78,42,146,145
+,Match Complete,FinalScore,78,42,146,145

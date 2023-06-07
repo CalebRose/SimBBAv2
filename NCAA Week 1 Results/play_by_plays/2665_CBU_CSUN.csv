@@ -1,0 +1,173 @@
+HomeTeam,AwayTeam,HomeTeamScore,AwayTeamScore,Total Possessions
+CBU,CSUN,33,55,149
+""
+Team,Result,PlayType,TeamOneScore,TeamTwoScore,Possession,Total Possessions
+CSUN,Frank wins the tipoff for CSUN!,Tipoff,0,0,0,149
+CSUN,William Drew 3-point attempt...Missed!Rebounded by CBU Ronald Nyman.,Score,0,0,1,149
+CBU,Jesus Archuletta 2-point jumper...Missed!       Rebounded by CSUN William Reese.,Missed,0,0,2,149
+CSUN,Kenneth Fulkrod Inside shot...Missed!       Rebounded by CBU Jesus Archuletta.,Score,0,0,3,149
+CBU,Jesus Archuletta 3-point attempt...Missed!       Rebounded by CSUN William Drew.,Miss,0,0,4,149
+CSUN,William Drew 3-point attempt...Missed!Rebounded by CBU Jesus Archuletta.,Score,0,0,5,149
+CBU,Jesus Archuletta Inside shot...Missed!       Rebounded by CSUN William Drew.,Score,0,0,6,149
+CSUN,William Reese Inside shot... Missed but with a foul on the play.,Fouled,0,0,7,149
+CSUN,Free throw coming up... rattled out.,FreeThrow,0,0,7,149
+CSUN,Free throw coming up... good!,FreeThrow,0,1,7,149
+CBU,Jesus Archuletta Inside shot... Missed with a foul on the play.,Fouled,0,1,8,149
+CBU,Free throw coming up... good!,FreeThrow,1,1,8,149
+CBU,Free throw coming up... rattled out.       Rebounded by CBU Joseph Sanchez.,FreeThrow,1,1,8,149
+CBU,Adam Kavuri 2-point jumper...Missed!       Rebounded by CSUN William Reese.,Missed,1,1,9,149
+CSUN,Scotty Metzler Inside shot...Missed!       Rebounded by CBU Domenic Will.,Score,1,1,10,149
+CBU,Jesus Archuletta 2-point jumper...Missed!       Rebounded by CBU Joseph Sanchez.,Missed,1,1,11,149
+CBU,Jesus Archuletta 3-point attempt...Missed!       Rebounded by CSUN Roy Wood.,Miss,1,1,12,149
+CSUN,William Reese 2-point jumper...Missed!       Rebounded by CBU Ronald Nyman.,Score,1,1,13,149
+CBU,Jesus Archuletta 3-point attempt...Missed!       Rebounded by CBU Jesus Archuletta.,Missed,1,1,14,149
+CBU,Jesus Archuletta 2-point jumper...Score!,Score,3,1,15,149
+CSUN,William Drew Inside shot...Score!,Score,3,3,16,149
+CBU,Ronald Nyman 3-point attempt...Missed!       Rebounded by CSUN Roy Wood.,Miss,3,3,17,149
+CSUN,William Reese 2-point jumper...Score!,Score,3,5,18,149
+CBU,Jesus Archuletta Inside shot...Score!,Score,5,5,19,149
+CSUN,William Drew Inside shot...BLOCKED by Jesus Archuletta.       Rebounded by CBU Frederick Peters.,Turnover,5,5,20,149
+CBU,Jesus Archuletta Inside shot...Missed!       Rebounded by CSUN Scotty Metzler.,Score,5,5,21,149
+CSUN,CSUN William Reese lost the ball out of bounds.,Turnover,5,5,22,149
+CBU,Jesus Archuletta 2-point jumper...Missed!       Rebounded by CSUN Jeffrey Butler.,Missed,5,5,23,149
+CSUN,William Drew 3-point attempt...Score!       Assisted by: Scotty Metzler,Score,5,8,24,149
+CBU,Jesus Archuletta 2-point jumper...Missed!       Rebounded by CSUN Scotty Metzler.,Missed,5,8,25,149
+CBU,Domenic Will steals the ball for CBU!,Turnover,5,8,26,149
+CBU,Jesus Archuletta Inside shot...BLOCKED by CSUN Frank Reece.       Rebounded by CSUN William Drew.,Turnover,5,8,27,149
+CSUN,CSUN Shane Collins lost the ball out of bounds.,Turnover,5,8,28,149
+CSUN,Jeffrey Butler steals the ball for CSUN!,Turnover,5,8,29,149
+CSUN,William Reese Inside shot...Missed!       Rebounded by CSUN William Reese.,Score,5,8,30,149
+CSUN,Jeffrey Butler Inside shot...Score!,Score,5,10,31,149
+CBU,Jesus Archuletta 3-point attempt...Missed!       Rebounded by CSUN Jeffrey Butler.,Miss,5,10,32,149
+CSUN,William Reese 2-point jumper...Missed!       Rebounded by CBU Domenic Will.,Score,5,10,33,149
+CBU,Jesus Archuletta Inside shot...Missed!       Rebounded by CSUN William Reese.,Score,5,10,34,149
+CSUN,William Drew 3-point attempt...Score!       Assisted by: Scotty Metzler,Score,5,13,35,149
+CBU,Jesus Archuletta 2-point jumper...Missed!       Rebounded by CBU Ronald Nyman.,Missed,5,13,36,149
+CBU,Jesus Archuletta Inside shot...BLOCKED by CSUN Scotty Metzler.       Rebounded by CBU Christopher Underwood.,Turnover,5,13,37,149
+CBU,CBU Jesus Archuletta lost the ball out of bounds.,Out of Bounds,5,13,38,149
+CSUN,CSUN Kenneth Fulkrod lost the ball out of bounds.,Turnover,5,13,39,149
+CBU,Jesus Archuletta Inside shot...Missed!       Rebounded by CBU Steven Robinson.,Score,5,13,40,149
+CBU,Ronald Nyman Inside shot...Missed!       Rebounded by CSUN Roy Wood.,Score,5,13,41,149
+CSUN,Roy Wood 2-point jumper...Missed!       Rebounded by CBU Steven Robinson.,Score,5,13,42,149
+CBU,Jesus Archuletta 2-point jumper...Score!,Score,7,13,43,149
+CSUN,William Reese Inside shot...Missed!       Rebounded by CBU Ronald Nyman.,Score,7,13,44,149
+CBU,Ronald Nyman Inside shot...Score!,Score,9,13,45,149
+CSUN,William Drew 3-point attempt...Missed!Rebounded by CBU Domenic Will.,Score,9,13,46,149
+CBU,Jesus Archuletta 2-point jumper...Score!,Score,11,13,47,149
+CSUN,Jeffrey Butler Inside shot...Score! Fouled and we have a free throw folks!,Score,11,15,48,149
+CSUN,Free throw coming up... good!,FreeThrow,11,16,48,149
+CBU,Jesus Archuletta 2-point jumper...BLOCKED by CSUN William Drew.       Rebounded by CBU Joseph Sanchez.,Turnover,11,16,49,149
+CBU,Jesus Archuletta 2-point jumper...Missed!       Rebounded by CSUN William Reese.,Missed,11,16,50,149
+CSUN,William Reese 2-point jumper...Score!,Score,11,18,51,149
+CBU,Ronald Nyman 3-point attempt...Score!       Assisted by: Joseph Sanchez,Score,14,18,52,149
+CSUN,William Reese Inside shot... Missed but with a foul on the play.,Fouled,14,18,53,149
+CSUN,Free throw coming up... good!,FreeThrow,14,19,53,149
+CSUN,Free throw coming up... good!,FreeThrow,14,20,53,149
+CBU,Jesus Archuletta 2-point jumper...Score!,Score,16,20,54,149
+CSUN,William Reese 2-point jumper...Missed!       Rebounded by CSUN William Reese.,Score,16,20,55,149
+CSUN,CSUN Kenneth Fulkrod lost the ball out of bounds.,Turnover,16,20,56,149
+CBU,CBU: Offensive foul on CBU Christopher Underwood.,Foul,16,20,57,149
+CSUN,William Reese 2-point jumper...Score!,Score,16,22,58,149
+CSUN,William Drew steals the ball for CSUN!,Turnover,16,22,59,149
+CSUN,William Reese 2-point jumper...Score!,Score,16,24,60,149
+CBU,CBU Steven Robinson lost the ball out of bounds.,Out of Bounds,16,24,61,149
+CSUN,Jeffrey Butler 3-point attempt...Score!       Assisted by: Frank Reece,Score,16,27,62,149
+CBU,Jesus Archuletta 2-point jumper...Missed!       Rebounded by CSUN Jeffrey Butler.,Missed,16,27,63,149
+CSUN,CSUN Roy Wood lost the ball out of bounds.,Turnover,16,27,64,149
+CBU,Jesus Archuletta 2-point jumper...Missed!       Rebounded by CSUN Jeffrey Butler.,Missed,16,27,65,149
+CSUN,William Reese Inside shot...BLOCKED by Ronald Nyman.       Rebounded by CSUN Roy Wood.,Turnover,16,27,66,149
+CSUN,William Reese Inside shot...Missed!       Rebounded by CSUN William Drew.,Score,16,27,67,149
+CSUN,CSUN Frank Reece lost the ball out of bounds.,Turnover,16,27,68,149
+CBU,Jesus Archuletta 2-point jumper...Missed!       Rebounded by CBU Domenic Will.,Missed,16,27,69,149
+CBU,Jesus Archuletta 2-point jumper...Missed!       Rebounded by CBU Steven Robinson.,Missed,16,27,70,149
+CBU,Ronald Nyman Inside shot...Missed!       Rebounded by CSUN William Drew.,Score,16,27,71,149
+CSUN,CSUN: Offensive foul on CSUN Frank Reece.,Turnover,16,27,72,149
+CBU,Ronald Nyman Inside shot...Score!       Assisted by: Steven Robinson,Score,18,27,73,149
+CSUN,Roy Wood 3-point attempt...Score!       Assisted by: Jeffrey Butler,Score,18,30,74,149
+,,HALFTIME,18,30,74,149
+CBU,Christopher Underwood 2-point jumper...Missed!       Rebounded by CSUN Jeffrey Butler.,Missed,18,30,75,149
+CSUN,William Reese Inside shot... Missed but with a foul on the play.,Fouled,18,30,76,149
+CSUN,Free throw coming up... rattled out.,FreeThrow,18,30,76,149
+CSUN,Free throw coming up... good!,FreeThrow,18,31,76,149
+CBU,Jesus Archuletta Inside shot...Missed!       Rebounded by CBU Frederick Peters.,Score,18,31,77,149
+CBU,Jesus Archuletta Inside shot...Missed!       Rebounded by CSUN Roy Wood.,Score,18,31,78,149
+CSUN,CSUN William Drew lost the ball out of bounds.,Turnover,18,31,79,149
+CBU,Jesus Archuletta 2-point jumper...BLOCKED by CSUN William Reese.       Rebounded by CBU Ronald Nyman.,Turnover,18,31,80,149
+CSUN,William Reese steals the ball for CSUN!,Turnover,18,31,81,149
+CSUN,William Reese Inside shot...Score!       Assisted by: William Drew,Score,18,33,82,149
+CBU,Adam Kavuri Inside shot...Missed!       Rebounded by CSUN William Reese.,Score,18,33,83,149
+CSUN,William Reese 2-point jumper...Missed!       Rebounded by CBU Jesus Archuletta.,Score,18,33,84,149
+CBU,Jesus Archuletta Inside shot...Missed!       Rebounded by CSUN Scotty Metzler.,Score,18,33,85,149
+CSUN,William Drew Inside shot...BLOCKED by Jesus Archuletta.       Rebounded by CBU Steven Robinson.,Turnover,18,33,86,149
+CBU,Jesus Archuletta Inside shot...Missed!       Rebounded by CBU Joseph Sanchez.,Score,18,33,87,149
+CBU,Jesus Archuletta 2-point jumper...Missed!       Rebounded by CSUN Shane Collins.,Missed,18,33,88,149
+CBU,Steven Robinson steals the ball for CBU!,Turnover,18,33,89,149
+CBU,Jesus Archuletta 2-point jumper...Missed!       Rebounded by CSUN Jeffrey Butler.,Missed,18,33,90,149
+CSUN,William Drew 3-point attempt...Missed!Rebounded by CBU Frederick Peters.,Score,18,33,91,149
+CBU,Ronald Nyman 3-point attempt...Missed!       Rebounded by CBU Joseph Sanchez.,Missed,18,33,92,149
+CSUN,William Reese steals the ball for CSUN!,Turnover,18,33,93,149
+CSUN,William Drew Inside shot...Score!,Score,18,35,94,149
+CBU,Ronald Nyman 3-point attempt...Missed!       Rebounded by CBU Steven Robinson.,Missed,18,35,95,149
+CBU,Ronald Nyman 3-point attempt...Missed!       Rebounded by CSUN William Drew.,Miss,18,35,96,149
+CSUN,CSUN Roy Wood lost the ball out of bounds.,Turnover,18,35,97,149
+CBU,Domenic Will 2-point jumper...Missed!       Rebounded by CSUN William Reese.,Missed,18,35,98,149
+CSUN,William Reese Inside shot...BLOCKED by Joseph Sanchez.       Rebounded by CBU Joseph Sanchez.,Turnover,18,35,99,149
+CBU,Domenic Will Inside shot...BLOCKED by CSUN Kenneth Fulkrod.       Rebounded by CBU Steven Robinson.,Turnover,18,35,100,149
+CBU,Jesus Archuletta Inside shot...Score!,Score,20,35,101,149
+CSUN,Roy Wood 2-point jumper...Score!       Assisted by: William Drew,Score,20,37,102,149
+CBU,Jesus Archuletta Inside shot...Missed!       Rebounded by CSUN William Reese.,Score,20,37,103,149
+CSUN,William Drew Inside shot...Score!,Score,20,39,104,149
+CBU,Jesus Archuletta 2-point jumper...Score!       Assisted by: Joseph Sanchez,Score,22,39,105,149
+CSUN,CSUN: Offensive foul on CSUN William Reese.,Turnover,22,39,106,149
+CBU,CBU Jesus Archuletta lost the ball out of bounds.,Out of Bounds,22,39,107,149
+CSUN,William Drew 3-point attempt...Score!       Assisted by: Roy Wood,Score,22,42,108,149
+CBU,Jesus Archuletta Inside shot...Score! Foul on the play and one!       Assisted by: Adam Kavuri,Score,24,42,109,149
+CBU,Free throw coming up... rattled out.       Rebounded by CBU Jesus Archuletta.,FreeThrow,24,42,109,149
+CBU,Jesus Archuletta Inside shot... Missed with a foul on the play.,Fouled,24,42,110,149
+CBU,Free throw coming up... rattled out.       Rebounded by CSUN Jeffrey Butler.,FreeThrow,24,42,110,149
+CSUN,William Reese 2-point jumper...Score!,Score,24,44,111,149
+CBU,CBU Joseph Sanchez lost the ball out of bounds.,Out of Bounds,24,44,112,149
+CSUN,William Reese Inside shot...Missed!       Rebounded by CBU Steven Robinson.,Score,24,44,113,149
+CBU,Christopher Underwood 2-point jumper...Missed!       Rebounded by CSUN Roy Wood.,Missed,24,44,114,149
+CSUN,William Reese Inside shot...Missed!       Rebounded by CSUN William Drew.,Score,24,44,115,149
+CSUN,William Drew Inside shot...BLOCKED by Ronald Nyman.       Rebounded by CSUN William Drew.,Turnover,24,44,116,149
+CSUN,William Reese Inside shot...Score!,Score,24,46,117,149
+CBU,Steven Robinson 2-point jumper...Missed!       Rebounded by CSUN William Drew.,Missed,24,46,118,149
+CSUN,William Drew 3-point attempt...Score!       Assisted by: Roy Wood,Score,24,49,119,149
+CBU,Domenic Will Inside shot...Missed!       Rebounded by CBU Joseph Sanchez.,Score,24,49,120,149
+CBU,Ronald Nyman 3-point attempt...Missed!       Rebounded by CSUN William Reese.,Miss,24,49,121,149
+CSUN,William Reese 2-point jumper...Missed!       Rebounded by CBU Adam Kavuri.,Score,24,49,122,149
+CBU,Adam Kavuri 2-point jumper...Missed!       Rebounded by CSUN William Reese.,Missed,24,49,123,149
+CSUN,Roy Wood 3-point attempt...Missed!Rebounded by CBU Joseph Sanchez.,Score,24,49,124,149
+CBU,Jesus Archuletta Inside shot... Missed with a foul on the play.,Fouled,24,49,125,149
+CBU,Free throw coming up... good!,FreeThrow,25,49,125,149
+CBU,Free throw coming up... good!,FreeThrow,26,49,125,149
+CSUN,William Drew Inside shot...BLOCKED by Christopher Underwood.       Rebounded by CSUN Jeffrey Butler.,Turnover,26,49,126,149
+CSUN,William Reese Inside shot... Missed but with a foul on the play.,Fouled,26,49,128,149
+CSUN,Free throw coming up... rattled out.,FreeThrow,26,49,128,149
+CSUN,Free throw coming up... rattled out.       Rebounded by CBU Steven Robinson.,FreeThrow,26,49,128,149
+CBU,Jesus Archuletta Inside shot...Score! Foul on the play and one!       Assisted by: Ronald Nyman,Score,28,49,129,149
+CBU,Free throw coming up... good!,FreeThrow,29,49,129,149
+CSUN,William Reese Inside shot...Missed!       Rebounded by CBU Joseph Sanchez.,Score,29,49,130,149
+CBU,Ronald Nyman Inside shot...Score!,Score,31,49,131,149
+CSUN,William Reese 2-point jumper...Score!       Assisted by: Frank Reece,Score,31,51,132,149
+CBU,CBU: Offensive foul on CBU Frederick Peters.,Foul,31,51,133,149
+CSUN,William Reese 2-point jumper...Score!,Score,31,53,134,149
+CBU,Jesus Archuletta 2-point jumper...Missed!       Rebounded by CSUN William Drew.,Missed,31,53,135,149
+CSUN,William Drew 3-point attempt...Missed!Rebounded by CBU Joseph Sanchez.,Score,31,53,136,149
+CBU,Ronald Nyman 3-point attempt...Missed!       Rebounded by CSUN Roy Wood.,Miss,31,53,137,149
+CSUN,William Reese 2-point jumper...BLOCKED by Joseph Sanchez.       Rebounded by CSUN Shane Collins.,Turnover,31,53,138,149
+CBU,Frederick Peters steals the ball for CBU!,Turnover,31,53,139,149
+CBU,Domenic Will 2-point jumper...Missed!       Rebounded by CBU Steven Robinson.,Missed,31,53,140,149
+CBU,CBU: Offensive foul on CBU Steven Robinson.,Foul,31,53,141,149
+CSUN,William Reese 2-point jumper...Missed!       Rebounded by CBU Steven Robinson.,Score,31,53,142,149
+CBU,Ronald Nyman 3-point attempt...Missed!       Rebounded by CSUN William Reese.,Miss,31,53,143,149
+CSUN,William Reese 2-point jumper...Missed!       Rebounded by CBU Domenic Will.,Score,31,53,144,149
+CBU,Jesus Archuletta Inside shot...Missed!       Rebounded by CSUN Roy Wood.,Score,31,53,145,149
+CBU,Jesus Archuletta steals the ball for CBU!,Turnover,31,53,146,149
+CBU,Jesus Archuletta Inside shot...Missed!       Rebounded by CSUN William Reese.,Score,31,53,147,149
+CSUN,William Reese Inside shot...Missed!       Rebounded by CBU Frederick Peters.,Score,31,53,148,149
+CBU,Jesus Archuletta Inside shot...Score! Foul on the play and one!,Score,33,53,149,149
+CBU,Free throw coming up... rattled out.       Rebounded by CSUN Roy Wood.,FreeThrow,33,53,149,149
+CSUN,William Reese Inside shot...Score!,Score,33,55,150,149
+,Match Complete,FinalScore,33,55,150,149

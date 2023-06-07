@@ -1,24 +1,31 @@
+import util
+
+
 class ImportDTO:
     def __init__(self, r):
         self.Results = r
 
+
 class MatchResults:
-    def __init__(self, t1, t2, r1, r2, game_id):
+    def __init__(self, t1, t2, r1, r2, game_id, is_nba):
         self.TeamOne = t1
         self.TeamTwo = t2
         self.RosterOne = r1
         self.RosterTwo = r2
         self.GameID = game_id
+        self.IsNBA = is_nba
+
 
 class Team:
     def __init__(self, t):
-        self.TeamName = t['TeamName']
-        self.Mascot = t['Mascot']
-        self.Abbr = t['Abbr']
-        self.Conference = t['Conference']
-        self.Coach = t['Coach']
-        self.ID = t['ID']
+        self.TeamName = t["TeamName"]
+        self.Mascot = t["Mascot"]
+        self.Abbr = t["Abbr"]
+        self.Conference = t["Conference"]
+        self.Coach = t["Coach"]
+        self.ID = t["ID"]
         self.Stats = TeamStats()
+
 
 class TeamStats:
     def __init__(self):
@@ -51,78 +58,91 @@ class TeamStats:
         if poss <= ht:
             self.FirstHalfScore += pts
         elif is_ot == False:
-            self.SecondHalfScore += pts  
+            self.SecondHalfScore += pts
         else:
             self.OvertimeScore += pts
+
     def CalculateLead(self, pts, diff):
         if self.LargestLead < diff:
             self.LargestLead += pts
+
     def AddFieldGoal(self, made_shot):
         self.FGA += 1
         if made_shot == True:
             self.FGM += 1
         self.FGPercent = self.FGM / self.FGA
+
     def AddThreePointShot(self, made_shot):
         self.ThreePointAttempts += 1
         if made_shot == True:
             self.ThreePointsMade += 1
         self.ThreePointPercent = self.ThreePointsMade / self.ThreePointAttempts
+
     def AddFreeThrow(self, made_shot):
         self.FTA += 1
         if made_shot == True:
             self.FTM += 1
         self.FTPercent = self.FTM / self.FTA
+
     def AddRebound(self, is_offense):
         self.Rebounds += 1
         if is_offense == True:
             self.OffRebounds += 1
         else:
             self.DefRebounds += 1
+
     def AddAssist(self):
         self.Assists += 1
+
     def AddSteal(self):
         self.Steals += 1
+
     def AddBlocks(self):
         self.Blocks += 1
+
     def AddTurnover(self):
         self.TotalTurnovers += 1
+
     def AddPossession(self):
         self.Possessions += 1
+
     def AddFoul(self):
         self.Fouls += 1
+
 
 class Roster:
     def __init__(self, r):
         self.roster = r
 
+
 class Player:
     def __init__(self, cp, finishingBonus, midBonus, threePtBonus, bwBonus, rebBonus):
-        self.ID = cp['ID']
-        self.FirstName = cp['FirstName']
-        self.LastName = cp['LastName']
-        self.TeamID = cp['TeamID']
-        self.TeamAbbr = cp['TeamAbbr']
-        self.IsRedshirt = cp['IsRedshirt']
-        self.IsRedshirting = cp['IsRedshirting']
-        self.Position = cp['Position']
-        self.Age = cp['Age']
-        self.Stars = cp['Stars']
-        self.Height = cp['Height']
-        self.Shooting2 = cp['Shooting2'] + midBonus
-        self.Shooting3 = cp['Shooting3'] + threePtBonus
-        self.FreeThrow = cp['FreeThrow']
-        self.Finishing = cp['Finishing'] + finishingBonus
-        self.Ballwork = cp['Ballwork'] + bwBonus
-        self.Rebounding = cp['Rebounding'] + rebBonus
-        self.InteriorDefense = cp['InteriorDefense']
-        self.PerimeterDefense = cp['PerimeterDefense']
-        self.Stealing = (cp['InteriorDefense'] + cp['PerimeterDefense']) / 2
-        self.Stamina = cp['Stamina']
-        self.Minutes = cp['Minutes']
-        self.InteriorProportion = cp['InteriorProportion']
-        self.MidRangeProportion = cp['MidRangeProportion']
-        self.ThreePointProportion = cp['ThreePointProportion']
-        self.Overall = cp['Overall']
+        self.ID = cp["ID"]
+        self.FirstName = cp["FirstName"]
+        self.LastName = cp["LastName"]
+        self.TeamID = cp["TeamID"]
+        self.TeamAbbr = cp["TeamAbbr"]
+        self.IsRedshirt = cp["IsRedshirt"]
+        self.IsRedshirting = cp["IsRedshirting"]
+        self.Position = cp["Position"]
+        self.Age = cp["Age"]
+        self.Stars = cp["Stars"]
+        self.Height = util.Get_Inches(cp["Height"])
+        self.Shooting2 = cp["Shooting2"] + midBonus
+        self.Shooting3 = cp["Shooting3"] + threePtBonus
+        self.FreeThrow = cp["FreeThrow"]
+        self.Finishing = cp["Finishing"] + finishingBonus
+        self.Ballwork = cp["Ballwork"] + bwBonus
+        self.Rebounding = cp["Rebounding"] + rebBonus
+        self.InteriorDefense = cp["InteriorDefense"]
+        self.PerimeterDefense = cp["PerimeterDefense"]
+        self.Stealing = (cp["InteriorDefense"] + cp["PerimeterDefense"]) / 2
+        self.Stamina = cp["Stamina"]
+        self.Minutes = cp["Minutes"]
+        self.InsideProportion = cp["InsideProportion"]
+        self.MidRangeProportion = cp["MidRangeProportion"]
+        self.ThreePointProportion = cp["ThreePointProportion"]
+        self.Overall = cp["Overall"]
         self.Stats = PlayerStats(cp)
         self.Shooting = 0
         self.AdjShooting = 0
@@ -142,9 +162,18 @@ class Player:
         self.MidUsage = 0
         self.ThreePointUsage = 0
         self.DefRateTO = 0
-        
-    def get_advanced_stats(self, totalrebounding, totalDefense, totalAssist, InsideProportion, MidProportion, ThreePtProportion, turnoverBonus):
-        self.Shooting = ((self.Shooting2 + self.Shooting3) / 2)
+
+    def get_advanced_stats(
+        self,
+        totalrebounding,
+        totalDefense,
+        totalAssist,
+        InsideProportion,
+        MidProportion,
+        ThreePtProportion,
+        turnoverBonus,
+    ):
+        self.Shooting = (self.Shooting2 + self.Shooting3) / 2
         self.AdjShooting = self.Shooting * self.Minutes
         self.AdjFinishing = self.Finishing * self.Minutes
         self.AdjBallwork = self.Ballwork * self.Minutes
@@ -155,18 +184,27 @@ class Player:
         self.ReboundingPer = self.AdjRebounding / totalrebounding
         # self.InteriorDefensePer = self.AdjInteriorDefense / totalDefense
         # self.PerimeterDefensePer = self.AdjPerimeterDefense / totalDefense
-        self.DefensePer = (((self.InteriorDefense + self.PerimeterDefense)/2)*self.Minutes)/totalDefense
+        self.DefensePer = (
+            ((self.InteriorDefense + self.PerimeterDefense) / 2) * self.Minutes
+        ) / totalDefense
         self.AssistPer = self.AdjBallwork / totalAssist
         self.Usage = self.Minutes / 20
-        self.InsideUsage = (self.InteriorProportion / (240*(InsideProportion/100)*2.4))
-        self.MidUsage = (self.MidRangeProportion / (240*(MidProportion/100)*2.4))
-        self.ThreePointUsage = (self.ThreePointProportion / (240*(ThreePtProportion/100)*2.4))
-        self.DefRateTO = ((self.PerimeterDefense + self.InteriorDefense + turnoverBonus) / 2)* self.Minutes
+        self.InsideUsage = self.InsideProportion / (
+            240 * (InsideProportion / 100) * 2.4
+        )
+        self.MidUsage = self.MidRangeProportion / (240 * (MidProportion / 100) * 2.4)
+        self.ThreePointUsage = self.ThreePointProportion / (
+            240 * (ThreePtProportion / 100) * 2.4
+        )
+        self.DefRateTO = (
+            (self.PerimeterDefense + self.InteriorDefense + turnoverBonus) / 2
+        ) * self.Minutes
+
 
 class PlayerStats:
     def __init__(self, cp):
-        self.CollegePlayerID = cp['ID']
-        self.Minutes = cp['Minutes']
+        self.CollegePlayerID = cp["ID"]
+        self.Minutes = cp["Minutes"]
         self.Possessions = 0
         self.FGM = 0
         self.FGA = 0
@@ -190,16 +228,15 @@ class PlayerStats:
     def AddPossession(self):
         self.Possessions += 1
 
-    def AddFieldGoal(self, made_shot, pts = 0):
+    def AddFieldGoal(self, made_shot, pts=0):
         self.Possessions += 1
         self.FGA += 1
-        if (made_shot):
+        if made_shot:
             self.FGM += 1
             self.Points += pts
         self.FGPercent = self.FGM / self.FGA
         if pts == 3:
             self.AddThreePoint(made_shot)
-        
 
     def AddThreePoint(self, made_shot):
         self.ThreePointAttempts += 1

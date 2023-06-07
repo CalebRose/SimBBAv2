@@ -1,0 +1,162 @@
+HomeTeam,AwayTeam,HomeTeamScore,AwayTeamScore,Total Possessions
+WISC,UWGB,57,48,136
+""
+Team,Result,PlayType,TeamOneScore,TeamTwoScore,Possession,Total Possessions
+WISC,Ian wins the tipoff for WISC!,Tipoff,0,0,0,136
+WISC,Craig Mitchell Inside shot...Score!       Assisted by: William Harris,Score,2,0,1,136
+UWGB,Jerome Berger 2-point jumper...BLOCKED by Craig Mitchell.       Rebounded by UWGB Jessie Taliaferro.,Turnover,2,0,2,136
+UWGB,UWGB Charles Webb lost the ball out of bounds.,Turnover,2,0,3,136
+WISC,WISC Ian Mccall lost the ball out of bounds.,Out of Bounds,2,0,4,136
+UWGB,Gregory Howard 2-point jumper...Score!,Score,2,2,5,136
+WISC,Andrew Jones Inside shot...Missed!       Rebounded by UWGB Kang Franklin.,Score,2,2,6,136
+UWGB,Robert Snell Inside shot...Score! Fouled and we have a free throw folks!       Assisted by: Gregory Howard,Score,2,4,7,136
+UWGB,Free throw coming up... rattled out.       Rebounded by WISC Craig Mitchell.,FreeThrow,2,4,7,136
+WISC,Nicholas Mitchell Inside shot...Score!,Score,4,4,8,136
+UWGB,Jessie Taliaferro 3-point attempt...Score!       Assisted by: Gregory Howard,Score,4,7,9,136
+WISC,William Sun Inside shot... Missed with a foul on the play.,Fouled,4,7,10,136
+WISC,Free throw coming up... good!,FreeThrow,5,7,10,136
+WISC,Free throw coming up... rattled out.       Rebounded by UWGB Kang Franklin.,FreeThrow,5,7,10,136
+UWGB,Robert Snell Inside shot...BLOCKED by Jerome Kearsee.       Rebounded by WISC Amos Quinn.,Turnover,5,7,11,136
+WISC,Ian Mccall Inside shot...Missed!       Rebounded by UWGB Jessie Taliaferro.,Score,5,7,12,136
+UWGB,Charles Webb Inside shot...Missed!       Rebounded by WISC Craig Mitchell.,Score,5,7,13,136
+WISC,Jeramy Booth Inside shot...Missed!       Rebounded by UWGB Charles Webb.,Score,5,7,14,136
+UWGB,Charles Webb Inside shot... Missed but with a foul on the play.,Fouled,5,7,15,136
+UWGB,Free throw coming up... good!,FreeThrow,5,8,15,136
+UWGB,Free throw coming up... good!,FreeThrow,5,9,15,136
+WISC,William Sun Inside shot... Missed with a foul on the play.,Fouled,5,9,16,136
+WISC,Free throw coming up... good!,FreeThrow,6,9,16,136
+WISC,Free throw coming up... good!,FreeThrow,7,9,16,136
+UWGB,Gregory Howard 2-point jumper...BLOCKED by Andrew Jones.       Rebounded by WISC John Lopez.,Turnover,7,9,17,136
+WISC,Ian Mccall Inside shot...Missed!       Rebounded by UWGB Jessie Taliaferro.,Score,7,9,18,136
+UWGB,Gregory Howard 2-point jumper...Score!       Assisted by: Charles Webb,Score,7,11,19,136
+WISC,Nicholas Mitchell Inside shot...Score! Foul on the play and one!       Assisted by: William Harris,Score,9,11,20,136
+WISC,Free throw coming up... good!,FreeThrow,10,11,20,136
+UWGB,UWGB Robert Snell lost the ball out of bounds.,Turnover,10,11,21,136
+UWGB,Robert Snell steals the ball for UWGB!,Turnover,10,11,22,136
+UWGB,Gregory Howard 2-point jumper...Missed!       Rebounded by UWGB Charles Webb.,Score,10,11,23,136
+UWGB,Charles Webb Inside shot...Score!,Score,10,13,24,136
+WISC,Andrew Jones 2-point jumper...Missed!       Rebounded by UWGB Gregory Howard.,Missed,10,13,25,136
+UWGB,Jessie Taliaferro Inside shot...Score!,Score,10,15,26,136
+WISC,Michael Vanhorn 3-point attempt...Missed!       Rebounded by UWGB Kang Franklin.,Miss,10,15,27,136
+UWGB,Charles Webb Inside shot... Missed but with a foul on the play.,Fouled,10,15,28,136
+UWGB,Free throw coming up... good!,FreeThrow,10,16,28,136
+UWGB,Free throw coming up... good!,FreeThrow,10,17,28,136
+WISC,WISC: Offensive foul on WISC Jeramy Booth.,Foul,10,17,29,136
+UWGB,Enrique Hernandez 3-point attempt...Score!       Assisted by: Gregory Howard,Score,10,20,30,136
+UWGB,Jessie Taliaferro steals the ball for UWGB!,Turnover,10,20,31,136
+UWGB,Charles Webb 2-point jumper...Score!,Score,10,22,32,136
+WISC,William Sun Inside shot...Score!,Score,12,22,33,136
+WISC,Andrew Jones steals the ball for WISC!,Turnover,12,22,34,136
+WISC,William Sun Inside shot... Missed with a foul on the play.,Fouled,12,22,35,136
+WISC,Free throw coming up... rattled out.       Rebounded by WISC Matthew Garrison.,FreeThrow,12,22,35,136
+WISC,Andrew Jones Inside shot...Missed!       Rebounded by UWGB Jessie Taliaferro.,Score,12,22,36,136
+UWGB,Jessie Taliaferro 2-point jumper...Missed!       Rebounded by WISC Andrew Jones.,Score,12,22,37,136
+WISC,Nicholas Mitchell Inside shot...Score!,Score,14,22,38,136
+UWGB,Gregory Howard 2-point jumper...BLOCKED by William Harris.       Rebounded by WISC William Harris.,Turnover,14,22,39,136
+WISC,WISC Ian Mccall lost the ball out of bounds.,Out of Bounds,14,22,40,136
+WISC,Nicholas Mitchell steals the ball for WISC!,Turnover,14,22,41,136
+WISC,Andrew Jones Inside shot... Missed with a foul on the play.,Fouled,14,22,42,136
+WISC,Free throw coming up... rattled out.       Rebounded by UWGB Gregory Howard.,FreeThrow,14,22,42,136
+UWGB,UWGB: Offensive foul on UWGB Jessie Taliaferro.,Turnover,14,22,43,136
+WISC,Armando Pope 3-point attempt...Score!       Assisted by: Andrew Jones,Score,17,22,44,136
+UWGB,Charles Webb Inside shot...Score!,Score,17,24,45,136
+WISC,Andrew Jones 3-point attempt...Missed!       Rebounded by WISC Armando Pope.,Missed,17,24,46,136
+WISC,Jerome Kearsee Inside shot... Missed with a foul on the play.,Fouled,17,24,47,136
+WISC,Free throw coming up... good!,FreeThrow,18,24,47,136
+WISC,Free throw coming up... good!,FreeThrow,19,24,47,136
+UWGB,Charles Webb Inside shot...Score!,Score,19,26,48,136
+WISC,Andrew Jones Inside shot...Score!,Score,21,26,49,136
+UWGB,Charles Webb Inside shot...Missed!       Rebounded by WISC Nicholas Mitchell.,Score,21,26,50,136
+WISC,Jerome Kearsee Inside shot...Missed!       Rebounded by UWGB Kang Franklin.,Score,21,26,51,136
+UWGB,Paul Jewell 2-point jumper...Missed!       Rebounded by UWGB Jonathan Fouts.,Score,21,26,52,136
+UWGB,Paul Jewell 2-point jumper...Score!       Assisted by: Charles Webb,Score,21,28,53,136
+WISC,Andrew Jones 3-point attempt...Score!       Assisted by: Nicholas Mitchell,Score,24,28,54,136
+UWGB,Gregory Howard 3-point attempt...Score!       Assisted by: Robert Snell,Score,24,31,55,136
+WISC,Nicholas Mitchell 2-point jumper...Missed!       Rebounded by UWGB Jerome Berger.,Missed,24,31,56,136
+UWGB,Gregory Howard 3-point attempt...Score!       Assisted by: Robert Snell       Rebounded by UWGB Charles Webb.,Score,24,31,57,136
+UWGB,Gregory Howard 2-point jumper...BLOCKED by Jeramy Booth.       Rebounded by UWGB Jessie Taliaferro.,Turnover,24,31,58,136
+UWGB,UWGB: Offensive foul on UWGB Jonathan Fouts.,Turnover,24,31,59,136
+WISC,Nicholas Mitchell Inside shot...Score!       Assisted by: Matthew Garrison,Score,26,31,60,136
+UWGB,Robert Snell 3-point attempt...Score!       Assisted by: Jerome Berger,Score,26,34,61,136
+WISC,WISC: Offensive foul on WISC Kevin Wells.,Foul,26,34,62,136
+UWGB,UWGB Kang Franklin lost the ball out of bounds.,Turnover,26,34,63,136
+WISC,Grigor Vance Inside shot...Missed!       Rebounded by UWGB Jonathan Fouts.,Score,26,34,64,136
+UWGB,Gregory Howard 2-point jumper...Missed!       Rebounded by WISC Armando Pope.,Score,26,34,65,136
+WISC,Jeramy Booth Inside shot... Missed with a foul on the play.,Fouled,26,34,66,136
+WISC,Free throw coming up... good!,FreeThrow,27,34,66,136
+UWGB,Paul Jewell 2-point jumper...BLOCKED by Nicholas Mitchell.       Rebounded by UWGB Charles Webb.,Turnover,27,34,67,136
+UWGB,Charles Webb Inside shot...Missed!       Rebounded by WISC Nicholas Mitchell.,Score,27,34,68,136
+,,HALFTIME,27,34,68,136
+WISC,Nicholas Mitchell Inside shot...Missed!       Rebounded by WISC Andrew Jones.,Score,27,34,69,136
+UWGB,Robert Snell steals the ball for UWGB!,Turnover,27,34,70,136
+UWGB,Gregory Howard 2-point jumper...Missed!       Rebounded by UWGB Gregory Howard.,Score,27,34,71,136
+UWGB,Gregory Howard 3-point attempt...Missed!Rebounded by WISC Andrew Jones.,Score,27,34,72,136
+WISC,Ian Mccall Inside shot... Missed with a foul on the play.,Fouled,27,34,73,136
+WISC,Free throw coming up... good!,FreeThrow,28,34,73,136
+UWGB,Charles Webb Inside shot...Score!,Score,28,36,74,136
+WISC,WISC: Offensive foul on WISC Amos Quinn.,Foul,28,36,75,136
+UWGB,Jessie Taliaferro 3-point attempt...Missed!Rebounded by WISC William Sun.,Score,28,36,76,136
+WISC,WISC: Offensive foul on WISC Kevin Wells.,Foul,28,36,77,136
+UWGB,Charles Webb Inside shot...Missed!       Rebounded by UWGB Charles Webb.,Score,28,36,78,136
+UWGB,UWGB: Offensive foul on UWGB Robert Snell.,Turnover,28,36,79,136
+WISC,Armando Pope 3-point attempt...Missed!       Rebounded by UWGB Gregory Howard.,Miss,28,36,80,136
+UWGB,Gregory Howard 2-point jumper...Missed!       Rebounded by WISC Armando Pope.,Score,28,36,81,136
+WISC,Nicholas Mitchell 2-point jumper...BLOCKED by UWGB Gregory Howard.       Rebounded by WISC Andrew Jones.,Turnover,28,36,82,136
+WISC,Kevin Wells Inside shot...Score! Foul on the play and one!,Score,30,36,83,136
+WISC,Free throw coming up... rattled out.       Rebounded by WISC Nicholas Mitchell.,FreeThrow,30,36,83,136
+WISC,Andrew Jones Inside shot...Score!,Score,32,36,84,136
+UWGB,Charles Webb Inside shot...Missed!       Rebounded by WISC Armando Pope.,Score,32,36,85,136
+WISC,Andrew Jones 2-point jumper...Score!       Assisted by: Ian Mccall,Score,34,36,86,136
+UWGB,Gregory Howard 3-point attempt...Missed!Rebounded by WISC Kevin Wells.,Score,34,36,87,136
+WISC,Nicholas Mitchell Inside shot...Missed!       Rebounded by UWGB Paul Jewell.,Score,34,36,88,136
+UWGB,Gregory Howard 2-point jumper...BLOCKED by Ian Mccall.       Rebounded by UWGB Charles Webb.,Turnover,34,36,89,136
+UWGB,Robert Snell 3-point attempt...Missed!Rebounded by WISC Armando Pope.,Score,34,36,90,136
+WISC,Nicholas Mitchell Inside shot...Score!,Score,36,36,91,136
+UWGB,Gregory Howard 2-point jumper...Missed!       Rebounded by WISC Armando Pope.,Score,36,36,92,136
+WISC,Nicholas Mitchell Inside shot...Score!       Assisted by: Andrew Jones,Score,38,36,93,136
+UWGB,Gregory Howard 3-point attempt...Missed!Rebounded by WISC Kevin Wells.,Score,38,36,94,136
+WISC,Michael Vanhorn 3-point attempt...Missed!       Rebounded by UWGB Paul Jewell.,Miss,38,36,95,136
+UWGB,Gregory Howard 3-point attempt...Missed!Rebounded by WISC Ian Mccall.,Score,38,36,96,136
+WISC,Jerome Kearsee Inside shot... Missed with a foul on the play.,Fouled,38,36,97,136
+WISC,Free throw coming up... good!,FreeThrow,39,36,97,136
+UWGB,Gregory Howard 2-point jumper...Missed!       Rebounded by WISC Andrew Jones.,Score,39,36,98,136
+WISC,Kevin Wells Inside shot...Missed!       Rebounded by WISC Amos Quinn.,Score,39,36,99,136
+WISC,WISC: Offensive foul on WISC Michael Vanhorn.,Foul,39,36,100,136
+UWGB,Gregory Howard 2-point jumper...Score!       Assisted by: Jerome Berger,Score,39,38,101,136
+WISC,Ian Mccall Inside shot...Score!       Assisted by: Amos Quinn,Score,41,38,102,136
+UWGB,Charles Webb Inside shot...Missed!       Rebounded by WISC Andrew Jones.,Score,41,38,103,136
+WISC,Andrew Jones 3-point attempt...Missed!       Rebounded by WISC Amos Quinn.,Missed,41,38,104,136
+WISC,Jeramy Booth Inside shot...Missed!       Rebounded by WISC Andrew Jones.,Score,41,38,105,136
+WISC,Grigor Vance Inside shot...Missed!       Rebounded by WISC Craig Mitchell.,Score,41,38,106,136
+WISC,Nicholas Mitchell 2-point jumper...Score!,Score,43,38,107,136
+UWGB,Charles Webb Inside shot...Score!       Assisted by: Robert Snell,Score,43,40,108,136
+WISC,William Sun Inside shot...Missed!       Rebounded by WISC Ian Mccall.,Score,43,40,109,136
+WISC,Jerome Kearsee Inside shot...BLOCKED by UWGB Robert Snell.       Rebounded by WISC Amos Quinn.,Turnover,43,40,110,136
+WISC,Jeramy Booth Inside shot...Missed!       Rebounded by WISC Kevin Wells.,Score,43,40,111,136
+WISC,Andrew Jones Inside shot...Score!,Score,45,40,112,136
+UWGB,UWGB Jessie Taliaferro lost the ball out of bounds.,Turnover,45,40,113,136
+WISC,Andrew Jones 2-point jumper...Score!       Assisted by: Amos Quinn,Score,47,40,114,136
+UWGB,UWGB: Offensive foul on UWGB Kang Franklin.,Turnover,47,40,115,136
+WISC,Ian Mccall Inside shot...Score!,Score,49,40,116,136
+UWGB,Gregory Howard 2-point jumper...Missed!       Rebounded by UWGB Charles Webb.,Score,49,40,117,136
+UWGB,Paul Jewell 2-point jumper...Missed!       Rebounded by WISC Armando Pope.,Score,49,40,118,136
+WISC,Andrew Jones 2-point jumper...Missed!       Rebounded by UWGB Kang Franklin.,Missed,49,40,119,136
+WISC,Gerald James steals the ball for WISC!,Turnover,49,40,120,136
+WISC,WISC: Offensive foul on WISC Andrew Jones.,Foul,49,40,121,136
+UWGB,Gregory Howard 2-point jumper...Score!       Assisted by: Jerome Berger,Score,49,42,122,136
+WISC,Andrew Jones Inside shot...Score!,Score,51,42,123,136
+UWGB,Gregory Howard 2-point jumper...Missed!       Rebounded by WISC Amos Quinn.,Score,51,42,124,136
+WISC,WISC Ian Mccall lost the ball out of bounds.,Out of Bounds,51,42,125,136
+UWGB,Kang Franklin Inside shot...BLOCKED by Michael Vanhorn.       Rebounded by UWGB Gregory Howard.,Turnover,51,42,126,136
+UWGB,Charles Webb Inside shot...Score!,Score,51,44,127,136
+WISC,Nicholas Mitchell 2-point jumper...Score!,Score,53,44,128,136
+UWGB,Charles Webb Inside shot...Score!       Assisted by: Robert Snell,Score,53,46,129,136
+WISC,Andrew Jones 3-point attempt...Missed!       Rebounded by WISC Amos Quinn.,Missed,53,46,130,136
+WISC,Craig Mitchell Inside shot...Score!,Score,55,46,131,136
+UWGB,Gregory Howard Inside shot...Missed!       Rebounded by WISC William Harris.,Score,55,46,132,136
+WISC,Grigor Vance Inside shot...BLOCKED by UWGB Charles Webb.       Rebounded by UWGB Charles Webb.,Turnover,55,46,133,136
+UWGB,Gregory Howard 2-point jumper...Missed!       Rebounded by WISC Jerome Kearsee.,Score,55,46,134,136
+WISC,WISC: Offensive foul on WISC Andrew Jones.,Foul,55,46,135,136
+UWGB,Charles Webb Inside shot...Score!,Score,55,48,136,136
+WISC,Andrew Jones Inside shot...Score!       Assisted by: Jerome Kearsee,Score,57,48,137,136
+,Match Complete,FinalScore,57,48,137,136

@@ -1,0 +1,58 @@
+=====BOX SCORE=====
+,,1st,2nd,OT,Total
+California Baptist,Lancers,12,11,0,33
+Cal State Northridge,Matadors,30,25,0,55
+""
+""
+=====California Baptist Players=====
+Player,Minutes,Possessions,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,Points,Rebounds,Assists,Steals,Blocks,TOs,Fouls
+Joseph Sanchez,30,1,0,0,0,0,0,0,0,0,0,0,10,2,0,2,0,0
+Jesus Archuletta,37,91,10,43,0.23255813953488372,0,4,0.0,4,9,0.4444444444444444,24,5,0,1,2,1,0
+Steven Robinson,30,5,0,1,0.0,0,0,0,0,0,0,0,9,1,1,0,0,1
+Adam Kavuri,10,6,0,3,0.0,0,0,0,0,0,0,0,1,1,0,0,0,0
+Ronald Nyman,33,26,4,13,0.3076923076923077,1,8,0.125,0,0,0,9,5,1,0,2,0,0
+Joselito Reyes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+William Jordan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Richard Foshee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Domenic Will,12,8,0,3,0.0,0,0,0,0,0,0,0,5,0,1,0,0,0
+Christopher Underwood,20,5,0,2,0.0,0,0,0,0,0,0,0,1,0,0,1,0,1
+Steven Anderson,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Frederick Peters,28,2,0,0,0,0,0,0,0,0,0,0,4,0,1,0,0,1
+""
+=====Cal State Northridge Players=====
+Player,Minutes,Possessions,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,Points,Rebounds,Assists,Steals,Blocks,TOs,Fouls
+William Reese,37,48,10,28,0.35714285714285715,0,0,0,4,8,0.5,24,13,0,2,1,5,1
+Roy Wood,36,10,2,4,0.5,1,2,0.5,0,0,0,5,9,2,0,0,2,0
+William Drew,27,23,7,12,0.5833333333333334,4,9,0.4444444444444444,0,0,0,18,10,2,1,1,5,0
+Jeffrey Butler,36,5,3,3,1.0,1,1,1.0,1,1,1.0,8,8,1,1,0,0,0
+Scotty Metzler,14,1,0,1,0.0,0,0,0,0,0,0,0,3,2,0,1,0,0
+Kenneth Fulkrod,10,3,0,1,0.0,0,0,0,0,0,0,0,0,0,0,1,2,0
+William Glass,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ronald Pemberton,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Shane Collins,11,1,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,0
+Frank Reece,29,2,0,0,0,0,0,0,0,0,0,0,0,2,0,1,2,1
+Jeffrey Powers,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+John Thomas,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+""
+""
+=====TEAM STATS=====
+Stat,California Baptist,Cal State Northridge
+Points,23,55
+Possessions,79,0
+FGM,13,16
+FGA,53,37
+FGPercent,0.24528301886792453,0.43243243243243246
+3PM,1,6
+3PA,12,12
+3P%,0.08333333333333333,0.5
+FTM,4,5
+FTA,9,9
+FT%,0.4444444444444444,0.5555555555555556
+Rebounds,40,45
+OffRebounds,18,8
+DefRebounds,22,37
+Assists,5,9
+Steals,4,0
+Blocks,7,2
+Total Turnovers,12,14
+Largest Lead,2,22
